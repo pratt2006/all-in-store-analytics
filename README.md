@@ -67,6 +67,33 @@ all-in-store-analytics/
 ├── .gitignore
 └── README.md
 
+📦 Download da Base de Dados
+
+Você pode baixar a base de dados utilizada neste projeto de duas formas:
+
+1. Baixar o projeto completo (recomendado)
+
+Clique no botão verde Code → Download ZIP
+Os arquivos CSV estarão na pasta:
+/data
+
+2. Baixar Arquivo individuais:
+
+Link direto
+clientes.csv
+https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/clientes.csv
+produtos.csv
+https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/produtos.csv
+vendas.csv
+https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/vendas.csv
+pagamentos.csv
+https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/pagamentos.csv
+estoque.csv
+https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/estoque.csv
+
+Após  o download cria uma pasta no C: com o nome AllInStore e uma subpasta chamado data salvar as bases de dados na pasta data.
+
+
 KPIs Desenvolvidos
 
 🔹 Vendas
@@ -301,6 +328,9 @@ Executar em ordem:
 ✔ Parte do portfólio profissional para área de Dados
 
 ⸻
+
+
+
 
 🤝 Conecte-se comigo
 
