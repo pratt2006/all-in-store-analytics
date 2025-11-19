@@ -1,1 +1,18 @@
+📦 Download da Base de Dados
 
+Você pode baixar a base de dados utilizada neste projeto de duas formas:
+
+    Baixar o projeto completo (recomendado)
+
+Clique no botão verde Code → Download ZIP Os arquivos CSV estarão na pasta: /data
+
+    Baixar Arquivo individuais:
+
+Link direto:
+Clientes: clientes.csv https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/clientes.csv 
+Produtos: produtos.csv https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/produtos.csv 
+Vendas: vendas.csv https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/vendas.csv 
+Pagamentos: pagamentos.csv https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/pagamentos.csv 
+Estoque: estoque.csv https://raw.githubusercontent.com/pratt2006/all-in-store-analytics/main/data/estoque.csv
+
+Após o download cria uma pasta no C: com o nome AllInStore e uma subpasta chamado data salvar as bases de dados na pasta data.
