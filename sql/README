@@ -38,5 +38,5 @@ Siga exatamente essa ordem:
 2. Criar chaaves primárias
 3. Criar as chaves estrangeiras
 4. Popular as tabelas para as próximas etapas.
-
+5. KPIS Iniciais com a base de dados em sql.
 
