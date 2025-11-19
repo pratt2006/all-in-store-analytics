@@ -1,0 +1,121 @@
+ID_Produto;Nome_Produto;Categoria;Subcategoria;Preco_Custo;Preco_Venda;Marca;Status
+1;Película de Vidro Basic;Telefonia;Película de Vidro;24.26;43.66;TecPlus;Ativo
+2;Power Bank Max;Telefonia;Power Bank;193.12;244.27;All In;Ativo
+3;Mouse Gamer Max;Games;Mouse Gamer;519.67;705.03;TecPlus;Ativo
+4;Cabo USB Pro;Acessórios;Cabo USB;541.82;912.02;GamerX;Descontinuado
+5;Hub USB Max;Informática;Hub USB;414.84;677.34;HyperSound;Ativo
+6;Mouse Gamer Lite;Games;Mouse Gamer;254.67;418.18;GamerX;Ativo
+7;Capa de Celular Max;Telefonia;Capa de Celular;441.4;588.57;GamerX;Descontinuado
+8;Hub USB Max;Informática;Hub USB;314.24;536.49;GamerX;Descontinuado
+9;Carregador Basic;Acessórios;Carregador;293.05;481.94;GamerX;Descontinuado
+10;Suporte de Celular Max;Acessórios;Suporte de Celular;399.57;532.77;PrattTech;Ativo
+11;Mouse Gamer Max;Games;Mouse Gamer;235.58;365.47;HyperSound;Ativo
+12;Caixa de Som Basic;Eletrônicos;Caixa de Som;522.51;809.97;GamerX;Ativo
+13;Caixa de Som Pro;Eletrônicos;Caixa de Som;310.28;533.84;HyperSound;Descontinuado
+14;Película de Vidro Lite;Telefonia;Película de Vidro;51.36;87.96;PrattTech;Descontinuado
+15;Carregador Lite;Acessórios;Carregador;592.57;1028.53;HyperSound;Ativo
+16;Carregador Pro;Acessórios;Carregador;471.79;704.17;PrattTech;Ativo
+17;Teclado Gamer Basic;Games;Teclado Gamer;22.73;31.01;PrattTech;Ativo
+18;Capa de Celular Lite;Telefonia;Capa de Celular;475.42;792.93;PrattTech;Descontinuado
+19;Película de Vidro Lite;Telefonia;Película de Vidro;253.97;451.86;HyperSound;Descontinuado
+20;Fone de Ouvido Pro;Eletrônicos;Fone de Ouvido;443.78;785.51;TecPlus;Ativo
+21;Capa de Celular Basic;Telefonia;Capa de Celular;412.51;650.12;PrattTech;Ativo
+22;Suporte de Celular Max;Acessórios;Suporte de Celular;201.01;253.6;GamerX;Ativo
+23;Película de Vidro Pro;Telefonia;Película de Vidro;57.87;71.03;TecPlus;Descontinuado
+24;Hub USB Max;Informática;Hub USB;271.53;437.72;PrattTech;Descontinuado
+25;Mouse Gamer Max;Games;Mouse Gamer;455.07;591.1;HyperSound;Descontinuado
+26;Fone de Ouvido Pro;Eletrônicos;Fone de Ouvido;441.76;564.89;All In;Ativo
+27;Power Bank Pro;Telefonia;Power Bank;91.43;148.73;All In;Ativo
+28;Hub USB Max;Informática;Hub USB;467.32;735.51;GamerX;Ativo
+29;Headset Gamer Basic;Eletrônicos;Headset Gamer;399.07;483.61;All In;Ativo
+30;Mouse Lite;Informática;Mouse;91.69;123.93;PrattTech;Descontinuado
+31;Suporte de Celular Basic;Acessórios;Suporte de Celular;194.65;310.86;GamerX;Descontinuado
+32;Teclado Gamer Pro;Games;Teclado Gamer;262.92;457.26;GamerX;Descontinuado
+33;Capa de Celular Max;Telefonia;Capa de Celular;86.13;108.85;PrattTech;Descontinuado
+34;Capa de Celular Max;Telefonia;Capa de Celular;502.27;895.99;TecPlus;Ativo
+35;Mouse Pro;Informática;Mouse;42.86;64.2;PrattTech;Ativo
+36;Mouse Pro;Informática;Mouse;21.59;34.61;All In;Descontinuado
+37;Power Bank Lite;Telefonia;Power Bank;106.5;133.56;GamerX;Descontinuado
+38;Headset Gamer Basic;Eletrônicos;Headset Gamer;544.77;864.33;HyperSound;Ativo
+39;Mouse Gamer Lite;Games;Mouse Gamer;49.05;82.79;All In;Ativo
+40;Mouse Gamer Max;Games;Mouse Gamer;267.08;339.07;All In;Ativo
+41;Fone de Ouvido Pro;Eletrônicos;Fone de Ouvido;210.62;365.79;GamerX;Descontinuado
+42;Teclado Gamer Basic;Games;Teclado Gamer;236.12;331.9;All In;Ativo
+43;Mouse Lite;Informática;Mouse;177.66;254.31;HyperSound;Ativo
+44;Hub USB Pro;Informática;Hub USB;85.57;138.43;All In;Ativo
+45;Cabo USB Lite;Acessórios;Cabo USB;548.51;817.06;GamerX;Ativo
+46;Teclado Lite;Informática;Teclado;471.92;739.41;PrattTech;Ativo
+47;Mouse Basic;Informática;Mouse;534.8;783.17;All In;Ativo
+48;Teclado Gamer Max;Games;Teclado Gamer;27.17;46.76;GamerX;Ativo
+49;Power Bank Pro;Telefonia;Power Bank;587.18;940.61;TecPlus;Ativo
+50;Power Bank Basic;Telefonia;Power Bank;271.05;443.44;HyperSound;Ativo
+51;Teclado Gamer Lite;Games;Teclado Gamer;106.22;180.13;GamerX;Ativo
+52;Fone de Ouvido Pro;Eletrônicos;Fone de Ouvido;313.23;464.07;HyperSound;Descontinuado
+53;Cabo USB Lite;Acessórios;Cabo USB;205.97;288.06;TecPlus;Ativo
+54;Headset Gamer Pro;Eletrônicos;Headset Gamer;339.29;484.23;PrattTech;Ativo
+55;Caixa de Som Lite;Eletrônicos;Caixa de Som;484.73;712.0;HyperSound;Descontinuado
+56;Mouse Basic;Informática;Mouse;588.79;969.82;All In;Ativo
+57;Caixa de Som Lite;Eletrônicos;Caixa de Som;40.78;62.37;All In;Ativo
+58;Power Bank Max;Telefonia;Power Bank;536.26;824.45;HyperSound;Ativo
+59;Mouse Gamer Basic;Games;Mouse Gamer;493.62;842.41;TecPlus;Ativo
+60;Power Bank Lite;Telefonia;Power Bank;435.66;617.76;HyperSound;Ativo
+61;Fone de Ouvido Pro;Eletrônicos;Fone de Ouvido;21.27;30.06;TecPlus;Ativo
+62;Power Bank Max;Telefonia;Power Bank;427.22;524.4;PrattTech;Ativo
+63;Teclado Lite;Informática;Teclado;82.04;128.52;PrattTech;Ativo
+64;Caixa de Som Pro;Eletrônicos;Caixa de Som;285.09;475.77;TecPlus;Ativo
+65;Caixa de Som Basic;Eletrônicos;Caixa de Som;557.44;949.03;GamerX;Ativo
+66;Caixa de Som Lite;Eletrônicos;Caixa de Som;401.9;712.86;PrattTech;Ativo
+67;Teclado Basic;Informática;Teclado;340.87;497.56;GamerX;Ativo
+68;Hub USB Pro;Informática;Hub USB;421.25;549.39;PrattTech;Ativo
+69;Caixa de Som Max;Eletrônicos;Caixa de Som;312.38;446.95;GamerX;Descontinuado
+70;Carregador Lite;Acessórios;Carregador;578.88;1031.73;HyperSound;Ativo
+71;Cabo USB Lite;Acessórios;Cabo USB;369.46;639.85;GamerX;Ativo
+72;Teclado Gamer Max;Games;Teclado Gamer;432.89;762.45;PrattTech;Ativo
+73;Cabo USB Max;Acessórios;Cabo USB;418.23;733.04;PrattTech;Ativo
+74;Suporte de Celular Max;Acessórios;Suporte de Celular;432.0;715.59;GamerX;Ativo
+75;Hub USB Lite;Informática;Hub USB;411.06;713.73;GamerX;Descontinuado
+76;Mouse Gamer Basic;Games;Mouse Gamer;323.18;392.72;PrattTech;Descontinuado
+77;Headset Gamer Basic;Eletrônicos;Headset Gamer;135.94;224.32;PrattTech;Ativo
+78;Teclado Gamer Max;Games;Teclado Gamer;104.93;129.82;TecPlus;Descontinuado
+79;Suporte de Celular Basic;Acessórios;Suporte de Celular;228.04;335.57;GamerX;Ativo
+80;Capa de Celular Lite;Telefonia;Capa de Celular;157.81;263.63;TecPlus;Ativo
+81;Caixa de Som Lite;Eletrônicos;Caixa de Som;261.61;437.64;TecPlus;Ativo
+82;Capa de Celular Basic;Telefonia;Capa de Celular;451.33;596.59;HyperSound;Descontinuado
+83;Suporte de Celular Max;Acessórios;Suporte de Celular;457.96;699.75;GamerX;Ativo
+84;Suporte de Celular Pro;Acessórios;Suporte de Celular;190.62;249.04;All In;Ativo
+85;Cabo USB Basic;Acessórios;Cabo USB;238.77;347.91;GamerX;Ativo
+86;Controle Pro;Games;Controle;358.71;485.34;TecPlus;Ativo
+87;Hub USB Pro;Informática;Hub USB;43.17;75.86;GamerX;Ativo
+88;Headset Gamer Max;Eletrônicos;Headset Gamer;304.52;470.06;TecPlus;Ativo
+89;Headset Gamer Max;Eletrônicos;Headset Gamer;324.73;576.13;GamerX;Ativo
+90;Headset Gamer Pro;Eletrônicos;Headset Gamer;261.24;397.67;All In;Ativo
+91;Controle Pro;Games;Controle;404.73;566.07;TecPlus;Ativo
+92;Suporte de Celular Lite;Acessórios;Suporte de Celular;598.05;1013.22;All In;Ativo
+93;Headset Gamer Max;Eletrônicos;Headset Gamer;278.49;485.32;GamerX;Ativo
+94;Capa de Celular Basic;Telefonia;Capa de Celular;415.88;579.14;All In;Ativo
+95;Mouse Max;Informática;Mouse;34.33;51.84;TecPlus;Descontinuado
+96;Power Bank Lite;Telefonia;Power Bank;302.35;416.6;PrattTech;Ativo
+97;Teclado Gamer Basic;Games;Teclado Gamer;569.96;741.2;GamerX;Ativo
+98;Capa de Celular Basic;Telefonia;Capa de Celular;142.25;224.43;PrattTech;Ativo
+99;Teclado Pro;Informática;Teclado;331.9;538.22;HyperSound;Ativo
+100;Headset Gamer Pro;Eletrônicos;Headset Gamer;33.78;55.07;All In;Ativo
+101;Fone de Ouvido Basic;Eletrônicos;Fone de Ouvido;123.24;166.52;All In;Ativo
+102;Capa de Celular Max;Telefonia;Capa de Celular;256.43;377.13;HyperSound;Ativo
+103;Mouse Basic;Informática;Mouse;245.91;312.55;All In;Ativo
+104;Capa de Celular Basic;Telefonia;Capa de Celular;426.51;530.39;GamerX;Ativo
+105;Caixa de Som Max;Eletrônicos;Caixa de Som;371.81;508.97;HyperSound;Ativo
+106;Mouse Basic;Informática;Mouse;294.91;448.29;PrattTech;Ativo
+107;Hub USB Max;Informática;Hub USB;576.88;742.12;TecPlus;Ativo
+108;Headset Gamer Pro;Eletrônicos;Headset Gamer;91.48;110.05;GamerX;Ativo
+109;Hub USB Basic;Informática;Hub USB;196.72;324.39;TecPlus;Ativo
+110;Carregador Pro;Acessórios;Carregador;113.35;151.04;TecPlus;Ativo
+111;Cabo USB Pro;Acessórios;Cabo USB;409.17;630.28;All In;Ativo
+112;Película de Vidro Basic;Telefonia;Película de Vidro;188.58;233.92;All In;Ativo
+113;Suporte de Celular Lite;Acessórios;Suporte de Celular;571.89;808.81;PrattTech;Ativo
+114;Caixa de Som Basic;Eletrônicos;Caixa de Som;542.07;753.84;HyperSound;Ativo
+115;Teclado Gamer Max;Games;Teclado Gamer;422.21;545.26;GamerX;Descontinuado
+116;Mouse Gamer Lite;Games;Mouse Gamer;117.81;163.51;PrattTech;Descontinuado
+117;Mouse Max;Informática;Mouse;97.9;160.53;HyperSound;Ativo
+118;Mouse Max;Informática;Mouse;469.36;700.37;All In;Ativo
+119;Suporte de Celular Basic;Acessórios;Suporte de Celular;508.24;871.75;PrattTech;Descontinuado
+120;Capa de Celular Max;Telefonia;Capa de Celular;445.46;702.03;All In;Ativo

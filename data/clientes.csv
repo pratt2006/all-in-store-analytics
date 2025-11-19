@@ -1,0 +1,501 @@
+ID_Cliente;Nome;Sexo;Data_Nascimento;Estado;Cidade;Data_Cadastro;Indicacao;Classificacao
+1;Ana Silva;F;1981-12-20;RJ;Rio de Janeiro;2024-02-17;380.0;Ativo
+2;Mariana Souza;F;1962-11-07;SP;São Paulo;2021-03-23;;Inativo
+3;Letícia Silva;M;1997-08-20;RJ;Niterói;2023-04-21;;Ativo
+4;João Barbosa;M;1997-11-30;MG;Contagem;2020-11-14;;Ativo
+5;Bruno Souza;M;1994-01-31;SP;Campinas;2024-10-01;;Novo
+6;Lucas Barbosa;M;2001-03-20;RS;Porto Alegre;2022-02-14;151.0;Novo
+7;Letícia Araújo;F;1977-04-01;BA;Salvador;2020-04-03;;Novo
+8;Aline Souza;M;1969-01-22;PR;Londrina;2022-07-17;;Inativo
+9;Carla Oliveira;F;1991-11-15;RJ;Duque de Caxias;2021-06-30;;Ativo
+10;Pedro Ferreira;M;1981-12-17;RJ;Niterói;2022-02-16;;Ativo
+11;Mariana Pereira;F;1965-01-06;RJ;Rio de Janeiro;2024-07-06;;Novo
+12;Lucas Souza;M;1988-03-25;RJ;Duque de Caxias;2022-10-19;;Inativo
+13;Rodrigo Oliveira;F;1972-07-11;RJ;Duque de Caxias;2023-02-23;;Inativo
+14;Felipe Costa;F;1992-06-22;RJ;Rio de Janeiro;2022-11-09;;Ativo
+15;Maria Rocha;M;1973-09-17;BA;Salvador;2024-06-10;;Novo
+16;Letícia Souza;F;1994-03-27;RS;Caxias do Sul;2022-12-19;;Novo
+17;Mariana Rocha;M;1970-04-11;BA;Feira de Santana;2024-04-23;;Ativo
+18;Ana Lima;F;1974-03-10;PR;Curitiba;2024-01-18;;Ativo
+19;Lucas Almeida;M;2005-07-18;SP;Campinas;2024-09-19;;Ativo
+20;Letícia Pereira;M;1993-07-18;RJ;Duque de Caxias;2024-05-13;;Ativo
+21;João Ferreira;F;2003-11-01;SP;São Paulo;2022-01-13;;Ativo
+22;Aline Pereira;M;1981-08-10;RS;Porto Alegre;2020-06-24;;Novo
+23;Pedro Barbosa;M;1971-07-09;BA;Feira de Santana;2023-01-30;271.0;Ativo
+24;Letícia Costa;M;1978-01-17;BA;Feira de Santana;2022-03-28;;Ativo
+25;Carla Ribeiro;F;1970-11-09;RJ;Rio de Janeiro;2020-05-11;;Ativo
+26;Felipe Almeida;M;1979-10-04;SP;São Paulo;2023-12-20;;Ativo
+27;Fernanda Souza;M;1989-08-23;SP;Osasco;2021-05-02;;Novo
+28;Camila Pereira;M;2002-05-28;RJ;Niterói;2024-07-11;;Ativo
+29;Ana Souza;F;1991-10-14;PR;Londrina;2022-08-14;;Ativo
+30;Maria Rodrigues;M;1965-06-09;PR;Maringá;2021-11-25;;Novo
+31;Ana Pereira;M;1977-01-23;RS;Caxias do Sul;2020-10-14;;Ativo
+32;Lucas Ribeiro;M;1966-10-06;PR;Maringá;2020-07-19;277.0;Novo
+33;João Souza;M;1974-12-02;PR;Londrina;2022-09-12;;Novo
+34;Rafael Araújo;M;1974-10-08;PR;Curitiba;2022-03-10;;Inativo
+35;Rodrigo Lima;F;2003-08-30;RJ;Rio de Janeiro;2021-08-30;;Inativo
+36;Maria Ferreira;M;1988-02-19;SP;São Paulo;2023-04-11;;Inativo
+37;Gabriel Oliveira;M;2005-07-23;SP;Guarulhos;2020-05-20;;Ativo
+38;Fernanda Costa;M;1982-02-01;RS;Porto Alegre;2023-06-22;337.0;Novo
+39;Felipe Ferreira;F;1983-05-24;RJ;Duque de Caxias;2024-01-06;;Ativo
+40;Lucas Costa;M;1986-11-30;PR;Londrina;2024-03-19;;Ativo
+41;João Ribeiro;M;1966-07-28;RS;Porto Alegre;2022-11-02;;Novo
+42;Carla Araújo;M;1981-11-30;MG;Contagem;2020-11-19;;Ativo
+43;Mariana Martins;F;1960-09-13;BA;Feira de Santana;2023-09-20;450.0;Novo
+44;Carlos Lima;M;1969-08-08;BA;Salvador;2021-07-11;;Inativo
+45;Paulo Martins;F;1978-04-07;BA;Feira de Santana;2022-11-01;;Ativo
+46;Maria Souza;F;1984-10-27;SP;São Paulo;2021-11-14;;Ativo
+47;Lucas Oliveira;F;1998-05-15;RS;Porto Alegre;2020-08-17;453.0;Ativo
+48;Carlos Almeida;M;1993-02-14;RS;Porto Alegre;2022-05-30;158.0;Ativo
+49;Carla Araújo;M;1992-02-06;RJ;Duque de Caxias;2021-05-26;;Ativo
+50;Carla Barbosa;F;1973-11-12;RJ;Rio de Janeiro;2024-06-26;;Novo
+51;Patrícia Silva;M;1989-10-20;PR;Maringá;2024-11-04;;Inativo
+52;Fernanda Lima;M;1969-09-12;PR;Curitiba;2024-10-24;;Ativo
+53;Paulo Rocha;F;1991-05-15;MG;Belo Horizonte;2021-04-01;99.0;Inativo
+54;Rafael Gomes;F;1966-03-24;MG;Contagem;2023-08-06;;Inativo
+55;Mariana Gomes;M;1970-05-07;MG;Belo Horizonte;2023-04-04;;Ativo
+56;Lucas Silva;M;1998-12-26;MG;Uberlândia;2024-05-29;;Inativo
+57;Letícia Almeida;M;1994-07-23;RS;Porto Alegre;2021-06-05;224.0;Novo
+58;João Almeida;M;1992-09-03;PR;Curitiba;2023-09-22;;Novo
+59;Letícia Gomes;M;1986-12-10;RS;Caxias do Sul;2023-09-27;;Novo
+60;Rafael Martins;F;1971-06-02;RJ;Niterói;2023-09-23;;Ativo
+61;Juliana Ferreira;F;1996-06-06;RS;Porto Alegre;2021-09-14;;Ativo
+62;Patrícia Barbosa;F;2001-09-18;PR;Londrina;2023-10-15;;Ativo
+63;Camila Barbosa;M;1967-08-10;MG;Uberlândia;2023-09-21;;Inativo
+64;Bruno Souza;M;1987-11-06;RJ;Rio de Janeiro;2020-10-28;126.0;Ativo
+65;Camila Ferreira;M;2000-11-09;PR;Maringá;2023-03-24;357.0;Ativo
+66;Rafael Ribeiro;F;1981-11-20;RJ;Duque de Caxias;2023-11-09;385.0;Ativo
+67;Ana Barbosa;F;1979-08-19;RJ;Duque de Caxias;2022-11-26;;Novo
+68;Mariana Pereira;M;2000-12-13;RJ;Niterói;2023-09-29;;Inativo
+69;Mariana Ferreira;F;1999-09-15;RS;Caxias do Sul;2024-08-28;;Novo
+70;Rodrigo Araújo;M;2002-08-02;PR;Londrina;2024-03-19;;Inativo
+71;Lucas Barbosa;F;1981-06-18;MG;Contagem;2020-06-07;;Ativo
+72;Fernanda Lima;F;1988-09-06;RS;Porto Alegre;2020-10-10;197.0;Novo
+73;Carlos Martins;M;1965-10-05;PR;Londrina;2021-11-08;;Novo
+74;Patrícia Silva;M;1997-09-10;PR;Maringá;2023-11-25;451.0;Inativo
+75;Felipe Costa;F;1960-07-12;MG;Contagem;2024-03-23;;Ativo
+76;Patrícia Almeida;M;2003-10-20;RJ;Niterói;2022-06-11;;Ativo
+77;Rafael Gomes;F;1974-10-22;PR;Curitiba;2023-06-28;;Ativo
+78;Rafael Ferreira;M;1967-07-13;BA;Feira de Santana;2020-10-04;;Novo
+79;Juliana Silva;F;1994-01-04;MG;Belo Horizonte;2022-07-20;;Ativo
+80;Rafael Lima;F;1982-08-19;SP;Santo André;2020-02-09;;Novo
+81;Maria Gomes;M;1966-02-26;BA;Salvador;2024-03-24;127.0;Inativo
+82;Paulo Rocha;M;1973-09-02;RJ;Rio de Janeiro;2022-08-27;;Ativo
+83;Felipe Pereira;F;1982-12-27;MG;Belo Horizonte;2023-05-25;;Ativo
+84;Ana Barbosa;M;1987-11-27;SP;Osasco;2020-02-22;;Novo
+85;Felipe Rodrigues;F;1995-08-02;BA;Salvador;2020-06-04;;Ativo
+86;Fernanda Souza;F;1970-11-10;RS;Porto Alegre;2021-12-12;;Ativo
+87;Carla Souza;F;1961-02-18;PR;Londrina;2020-08-04;;Ativo
+88;Carla Rodrigues;F;1973-09-22;PR;Curitiba;2024-02-11;;Ativo
+89;Lucas Ferreira;F;2001-09-14;PR;Maringá;2023-04-28;;Inativo
+90;Fernanda Rocha;M;1985-01-08;PR;Curitiba;2024-03-16;;Ativo
+91;Letícia Rodrigues;F;1990-03-07;SP;Santo André;2024-10-08;;Novo
+92;Camila Pereira;F;1983-03-06;MG;Contagem;2024-12-07;;Ativo
+93;Lucas Almeida;M;1977-02-20;SP;Guarulhos;2024-01-14;;Ativo
+94;Mariana Barbosa;M;2002-09-17;BA;Feira de Santana;2022-07-06;;Ativo
+95;Pedro Lima;M;1996-04-12;BA;Salvador;2021-09-19;;Ativo
+96;Carla Ribeiro;F;1998-03-04;BA;Feira de Santana;2021-12-21;;Ativo
+97;Lucas Lima;F;1980-09-06;SP;Guarulhos;2021-10-08;275.0;Ativo
+98;Juliana Pereira;M;2003-06-10;MG;Uberlândia;2023-04-22;;Ativo
+99;Gabriel Ferreira;F;1969-01-07;RJ;Niterói;2021-04-10;;Novo
+100;Aline Silva;M;1984-08-10;SP;São Paulo;2023-02-07;;Novo
+101;Carlos Rodrigues;F;1969-03-15;SP;Osasco;2021-08-05;;Novo
+102;Rodrigo Gomes;M;1964-08-10;MG;Contagem;2020-08-21;;Ativo
+103;Rafael Ribeiro;M;1964-10-22;RJ;Rio de Janeiro;2024-07-19;;Ativo
+104;Aline Souza;M;1970-08-17;RS;Caxias do Sul;2023-05-26;;Ativo
+105;Letícia Pereira;F;2000-06-01;PR;Londrina;2024-10-27;;Inativo
+106;Patrícia Lima;M;1968-11-25;RJ;Duque de Caxias;2021-03-08;;Ativo
+107;Pedro Oliveira;M;1975-08-05;RS;Porto Alegre;2020-11-16;231.0;Ativo
+108;Letícia Ribeiro;F;1962-12-05;RJ;Niterói;2023-12-18;;Ativo
+109;Rodrigo Souza;M;1983-09-25;BA;Salvador;2022-05-20;116.0;Ativo
+110;Carlos Araújo;F;1972-10-04;SP;São Paulo;2020-12-05;;Novo
+111;Letícia Martins;F;1999-05-26;SP;Santo André;2023-11-11;;Ativo
+112;Rafael Lima;F;1999-04-10;SP;Osasco;2020-03-22;;Novo
+113;Bruno Ferreira;F;1962-04-27;SP;Guarulhos;2023-10-12;;Inativo
+114;Felipe Ferreira;M;1984-03-06;RS;Porto Alegre;2024-04-11;;Inativo
+115;Camila Almeida;F;1984-12-14;RJ;Duque de Caxias;2022-06-11;;Ativo
+116;Camila Souza;F;1991-03-20;PR;Londrina;2021-10-19;;Inativo
+117;Juliana Gomes;F;2004-06-13;MG;Uberlândia;2022-03-31;;Inativo
+118;Mariana Silva;F;1967-11-25;MG;Contagem;2021-10-24;396.0;Novo
+119;Rafael Rocha;M;2001-06-12;PR;Curitiba;2021-01-19;;Inativo
+120;Letícia Barbosa;F;1999-08-28;SP;Guarulhos;2021-06-30;;Ativo
+121;Aline Ribeiro;F;1970-11-22;SP;Osasco;2024-06-24;;Inativo
+122;Juliana Lima;M;1996-08-08;SP;Guarulhos;2024-09-19;;Inativo
+123;Rodrigo Souza;M;2004-09-16;BA;Feira de Santana;2022-11-08;;Ativo
+124;Patrícia Rocha;F;2002-05-13;RJ;Niterói;2023-02-02;98.0;Novo
+125;Letícia Almeida;M;1966-04-06;MG;Contagem;2021-11-27;;Ativo
+126;Gabriel Lima;M;1985-05-17;BA;Feira de Santana;2024-09-11;;Ativo
+127;Camila Rocha;M;2000-01-23;RS;Caxias do Sul;2021-12-07;;Inativo
+128;Mariana Costa;F;1988-11-13;RJ;Duque de Caxias;2021-05-04;;Inativo
+129;Fernanda Rocha;F;1963-12-01;MG;Uberlândia;2022-08-26;;Novo
+130;Rafael Costa;M;2004-06-08;SP;Guarulhos;2022-10-25;;Ativo
+131;Bruno Rocha;M;1999-07-02;SP;Osasco;2022-07-24;74.0;Ativo
+132;Patrícia Rocha;M;1966-09-17;PR;Londrina;2021-11-24;;Ativo
+133;Rafael Rodrigues;M;1989-06-23;BA;Feira de Santana;2021-10-10;;Novo
+134;Camila Rocha;M;1966-02-20;RJ;Duque de Caxias;2023-11-02;;Ativo
+135;Fernanda Martins;M;1998-12-07;SP;São Paulo;2022-06-27;154.0;Inativo
+136;João Silva;F;1965-01-12;MG;Contagem;2022-02-06;;Ativo
+137;Fernanda Almeida;F;1976-02-26;RJ;Rio de Janeiro;2020-06-10;;Ativo
+138;Rafael Ferreira;M;2004-08-24;RS;Porto Alegre;2021-04-20;;Ativo
+139;Lucas Ribeiro;F;1960-11-03;PR;Londrina;2023-10-19;;Ativo
+140;Pedro Ribeiro;F;1986-11-02;BA;Feira de Santana;2023-11-14;;Inativo
+141;Aline Pereira;F;2003-05-08;SP;Guarulhos;2022-02-20;;Inativo
+142;Felipe Lima;F;1961-12-19;BA;Feira de Santana;2021-07-16;443.0;Ativo
+143;Maria Araújo;F;1985-09-04;RJ;Duque de Caxias;2024-06-30;;Ativo
+144;Paulo Ferreira;F;1972-04-08;BA;Salvador;2023-07-09;;Ativo
+145;Aline Barbosa;F;1962-12-29;RS;Caxias do Sul;2024-02-08;466.0;Ativo
+146;Aline Gomes;F;1975-10-04;RJ;Rio de Janeiro;2024-05-29;;Novo
+147;Carla Almeida;F;1974-10-05;MG;Contagem;2024-07-09;;Ativo
+148;Bruno Barbosa;M;2002-01-06;SP;Guarulhos;2024-03-24;;Ativo
+149;Rafael Rocha;F;1968-02-07;PR;Curitiba;2021-06-25;;Novo
+150;Rodrigo Gomes;F;1994-03-08;BA;Feira de Santana;2020-08-09;;Ativo
+151;Camila Silva;F;1979-11-10;BA;Salvador;2023-07-25;;Inativo
+152;Aline Rodrigues;F;1970-06-20;RJ;Rio de Janeiro;2020-03-17;;Ativo
+153;Camila Souza;M;1981-01-23;RS;Porto Alegre;2022-03-06;;Novo
+154;Mariana Costa;M;1997-03-21;BA;Salvador;2024-09-03;;Ativo
+155;Patrícia Lima;M;1993-03-29;RJ;Niterói;2022-06-29;;Inativo
+156;Carla Souza;F;1992-03-06;SP;Santo André;2021-07-19;63.0;Ativo
+157;Rodrigo Souza;M;1961-11-30;SP;Campinas;2021-05-13;;Ativo
+158;Felipe Pereira;M;1978-08-02;RS;Porto Alegre;2024-07-23;;Ativo
+159;Bruno Barbosa;M;1960-04-02;MG;Belo Horizonte;2020-09-23;;Ativo
+160;Juliana Souza;M;1971-10-28;SP;Campinas;2024-06-05;;Ativo
+161;Felipe Gomes;M;1975-08-19;MG;Belo Horizonte;2020-09-16;;Ativo
+162;Gabriel Souza;M;2002-09-22;PR;Londrina;2022-11-17;;Ativo
+163;Rodrigo Almeida;M;1963-11-21;BA;Feira de Santana;2022-07-27;;Ativo
+164;João Silva;F;1996-01-12;PR;Maringá;2020-08-09;;Ativo
+165;Rodrigo Souza;M;1988-11-23;RS;Porto Alegre;2020-05-14;320.0;Novo
+166;Felipe Almeida;F;1994-03-04;RS;Caxias do Sul;2022-07-18;;Inativo
+167;Patrícia Souza;M;1979-04-16;PR;Londrina;2024-12-23;;Ativo
+168;Bruno Rocha;F;1995-10-09;PR;Maringá;2020-07-13;;Novo
+169;Bruno Rodrigues;F;1993-07-31;RJ;Duque de Caxias;2022-08-29;426.0;Novo
+170;Pedro Souza;F;1968-08-30;BA;Feira de Santana;2024-07-20;31.0;Ativo
+171;Felipe Almeida;F;1970-12-19;PR;Londrina;2024-11-24;;Ativo
+172;Patrícia Rocha;M;1985-10-21;RS;Caxias do Sul;2021-12-21;260.0;Novo
+173;Paulo Oliveira;F;1980-02-13;SP;Campinas;2024-09-27;;Ativo
+174;Ana Barbosa;F;1980-04-15;PR;Maringá;2024-04-20;;Ativo
+175;Letícia Rodrigues;M;1983-12-29;SP;Guarulhos;2021-07-13;;Ativo
+176;Aline Araújo;F;1991-06-29;SP;Guarulhos;2024-11-16;337.0;Novo
+177;Rafael Souza;M;1962-10-01;SP;Osasco;2021-03-16;;Ativo
+178;Rodrigo Gomes;M;1993-03-13;MG;Uberlândia;2021-10-26;;Ativo
+179;Felipe Ferreira;M;1964-09-19;RJ;Rio de Janeiro;2024-03-25;;Inativo
+180;Pedro Lima;F;1998-01-15;PR;Maringá;2022-06-24;;Novo
+181;Paulo Barbosa;M;1990-12-19;PR;Curitiba;2021-08-03;;Ativo
+182;Felipe Ribeiro;F;1964-01-28;RJ;Niterói;2023-05-12;105.0;Novo
+183;Aline Pereira;M;1982-12-03;MG;Contagem;2020-09-02;383.0;Inativo
+184;Patrícia Oliveira;M;1994-02-09;RS;Porto Alegre;2022-10-21;;Inativo
+185;Carla Souza;F;1963-10-18;PR;Curitiba;2022-07-30;;Ativo
+186;Bruno Ferreira;F;1996-04-13;BA;Feira de Santana;2021-08-15;11.0;Ativo
+187;Bruno Oliveira;F;1992-06-18;SP;Santo André;2024-09-25;224.0;Inativo
+188;Felipe Costa;M;1995-07-04;MG;Uberlândia;2021-11-26;;Ativo
+189;Juliana Souza;M;2005-10-01;RJ;Niterói;2021-12-20;;Ativo
+190;Carlos Pereira;M;1973-02-19;MG;Belo Horizonte;2020-12-21;;Ativo
+191;Pedro Oliveira;F;2001-08-15;RS;Caxias do Sul;2023-10-26;;Novo
+192;Felipe Rodrigues;F;1988-05-12;RJ;Niterói;2020-05-19;;Inativo
+193;Aline Barbosa;F;1965-01-14;MG;Uberlândia;2020-05-31;;Inativo
+194;Rodrigo Silva;M;1993-01-29;MG;Belo Horizonte;2023-08-13;;Ativo
+195;Pedro Ferreira;F;2001-07-06;RS;Porto Alegre;2022-07-10;;Ativo
+196;Felipe Rodrigues;M;1988-11-04;RS;Caxias do Sul;2022-10-23;32.0;Ativo
+197;Rodrigo Souza;F;1967-07-26;RS;Porto Alegre;2020-03-21;;Ativo
+198;Rodrigo Ribeiro;M;1992-08-24;MG;Contagem;2022-03-04;;Inativo
+199;Bruno Rodrigues;M;1990-01-08;SP;Campinas;2020-07-12;;Inativo
+200;Rafael Lima;F;1973-06-28;MG;Belo Horizonte;2023-04-08;;Ativo
+201;Carla Lima;F;1971-07-27;RS;Porto Alegre;2021-09-26;;Ativo
+202;Bruno Rocha;M;1968-05-20;BA;Feira de Santana;2022-11-07;;Novo
+203;Carla Lima;M;1979-03-20;MG;Contagem;2021-01-28;;Novo
+204;Carlos Oliveira;M;1986-07-15;SP;Osasco;2024-04-27;;Inativo
+205;Gabriel Silva;F;1971-10-04;RS;Caxias do Sul;2020-11-11;426.0;Ativo
+206;Letícia Barbosa;M;1999-04-07;SP;Santo André;2022-01-16;;Novo
+207;Fernanda Ribeiro;F;2000-04-10;RJ;Duque de Caxias;2021-05-04;;Novo
+208;Camila Araújo;M;1992-12-31;BA;Feira de Santana;2022-08-03;;Ativo
+209;Rafael Almeida;F;1974-07-16;RJ;Duque de Caxias;2020-10-10;;Novo
+210;Maria Rodrigues;F;1993-04-20;RS;Porto Alegre;2023-12-27;;Novo
+211;Ana Lima;M;1974-05-20;MG;Contagem;2022-11-17;224.0;Ativo
+212;Pedro Araújo;M;2000-06-21;MG;Belo Horizonte;2022-04-29;258.0;Ativo
+213;Carla Pereira;F;1967-04-28;MG;Belo Horizonte;2020-02-27;;Ativo
+214;Ana Rocha;F;1973-02-06;RJ;Rio de Janeiro;2021-08-10;;Ativo
+215;Camila Martins;M;2002-01-31;PR;Maringá;2020-01-11;;Ativo
+216;João Lima;M;1973-05-31;RS;Caxias do Sul;2020-08-15;;Ativo
+217;Fernanda Lima;M;1964-04-13;RJ;Niterói;2023-08-01;;Ativo
+218;Rodrigo Souza;M;2004-11-03;RS;Porto Alegre;2023-07-18;;Ativo
+219;Fernanda Martins;M;1986-02-17;PR;Curitiba;2023-06-13;;Ativo
+220;Felipe Costa;M;1967-09-06;RS;Caxias do Sul;2020-05-18;;Inativo
+221;Mariana Almeida;M;1995-01-11;PR;Curitiba;2023-07-25;;Ativo
+222;Carla Lima;M;1992-01-14;SP;Campinas;2021-05-08;;Ativo
+223;Ana Barbosa;F;1971-12-20;SP;Campinas;2023-01-23;;Novo
+224;Juliana Rocha;F;2002-12-06;BA;Salvador;2024-07-19;367.0;Ativo
+225;Rodrigo Silva;F;1978-01-31;SP;Guarulhos;2024-12-19;478.0;Ativo
+226;Aline Almeida;F;2002-06-21;MG;Belo Horizonte;2024-03-22;;Ativo
+227;Aline Gomes;M;1989-10-11;MG;Belo Horizonte;2024-06-25;;Inativo
+228;Rafael Martins;F;1994-09-08;MG;Belo Horizonte;2022-10-13;;Ativo
+229;Carla Araújo;F;1967-05-31;BA;Feira de Santana;2020-06-10;;Inativo
+230;Juliana Almeida;F;1988-10-25;SP;São Paulo;2021-11-02;;Ativo
+231;Aline Ribeiro;F;1974-12-13;BA;Feira de Santana;2021-12-20;;Ativo
+232;Carla Ferreira;F;1984-08-18;BA;Salvador;2020-06-02;;Ativo
+233;Rafael Gomes;M;1962-10-17;RJ;Duque de Caxias;2023-10-20;;Ativo
+234;Maria Oliveira;M;1981-03-04;BA;Feira de Santana;2022-01-11;;Ativo
+235;Felipe Silva;M;2000-05-13;MG;Contagem;2022-06-28;;Novo
+236;Felipe Oliveira;F;1995-09-16;MG;Uberlândia;2021-07-24;;Ativo
+237;Ana Silva;M;2004-10-08;RS;Caxias do Sul;2023-02-24;397.0;Ativo
+238;Lucas Martins;F;1979-04-02;RS;Caxias do Sul;2023-11-22;;Novo
+239;Camila Pereira;M;1972-03-05;SP;Santo André;2020-12-19;;Ativo
+240;Rodrigo Souza;F;1991-03-03;BA;Salvador;2023-01-31;;Novo
+241;Aline Rocha;M;1975-08-14;MG;Uberlândia;2021-04-04;103.0;Inativo
+242;Carlos Pereira;F;1962-05-11;MG;Uberlândia;2023-03-18;;Inativo
+243;Mariana Oliveira;M;1965-11-24;MG;Contagem;2024-01-08;;Inativo
+244;Gabriel Costa;F;1966-08-13;RJ;Niterói;2023-08-08;239.0;Ativo
+245;Gabriel Gomes;M;1976-04-28;RJ;Niterói;2022-10-26;;Novo
+246;Maria Rocha;M;1973-09-23;MG;Belo Horizonte;2020-11-27;;Inativo
+247;Fernanda Gomes;F;1967-01-28;MG;Belo Horizonte;2023-07-24;;Ativo
+248;Lucas Oliveira;F;1968-05-19;RS;Porto Alegre;2023-04-27;;Inativo
+249;Carlos Oliveira;F;1963-09-11;SP;São Paulo;2020-04-03;;Inativo
+250;Felipe Lima;M;1997-05-16;RS;Porto Alegre;2022-10-16;;Inativo
+251;Mariana Lima;F;2003-04-30;RJ;Duque de Caxias;2022-04-11;;Ativo
+252;Pedro Martins;M;1974-03-07;PR;Londrina;2022-09-18;;Ativo
+253;Bruno Ferreira;M;1988-01-16;BA;Feira de Santana;2024-02-12;;Inativo
+254;Carla Costa;M;1993-03-29;RS;Porto Alegre;2021-10-15;;Ativo
+255;Ana Lima;F;1982-03-29;RJ;Rio de Janeiro;2020-04-13;;Novo
+256;Rafael Rocha;F;1982-04-10;RJ;Niterói;2023-03-29;;Ativo
+257;Paulo Barbosa;M;2004-09-13;RS;Caxias do Sul;2022-10-18;;Inativo
+258;Camila Silva;M;1995-04-12;RS;Caxias do Sul;2021-05-08;;Ativo
+259;Carla Silva;M;1985-03-29;PR;Maringá;2024-12-12;;Ativo
+260;Camila Lima;M;1969-08-23;PR;Curitiba;2024-12-12;;Novo
+261;Carla Barbosa;F;1992-10-30;SP;Santo André;2020-04-14;;Ativo
+262;Paulo Gomes;F;1966-08-06;PR;Maringá;2022-07-11;;Inativo
+263;Lucas Rocha;M;1971-07-18;SP;Santo André;2022-02-03;;Novo
+264;Bruno Almeida;F;1972-12-10;RJ;Duque de Caxias;2022-11-08;;Ativo
+265;Maria Silva;M;1972-04-17;BA;Feira de Santana;2024-07-04;;Inativo
+266;Rodrigo Oliveira;M;1989-06-03;RS;Caxias do Sul;2020-11-28;;Ativo
+267;Letícia Martins;F;1990-03-06;RS;Caxias do Sul;2023-12-22;;Ativo
+268;Camila Rocha;M;1993-01-17;MG;Uberlândia;2020-08-12;;Ativo
+269;Felipe Lima;M;2002-07-30;MG;Uberlândia;2024-05-22;;Ativo
+270;Felipe Ferreira;M;1964-08-09;RS;Caxias do Sul;2020-12-15;;Ativo
+271;Letícia Barbosa;F;1973-04-04;BA;Salvador;2020-03-05;;Inativo
+272;Ana Pereira;M;1999-07-26;MG;Contagem;2020-11-06;;Inativo
+273;Paulo Costa;F;1965-08-02;BA;Salvador;2022-11-28;;Inativo
+274;Bruno Rodrigues;F;1993-10-21;MG;Belo Horizonte;2022-07-30;;Inativo
+275;Bruno Almeida;F;1983-09-19;RS;Caxias do Sul;2021-01-28;;Ativo
+276;Lucas Almeida;F;1980-03-04;MG;Contagem;2023-12-14;;Ativo
+277;Camila Gomes;F;1991-04-17;RS;Caxias do Sul;2021-08-12;347.0;Ativo
+278;Mariana Costa;F;1990-12-18;RJ;Niterói;2020-03-27;;Ativo
+279;Pedro Gomes;F;1983-01-03;BA;Feira de Santana;2021-03-14;;Ativo
+280;Mariana Lima;F;1972-04-25;SP;Osasco;2024-02-26;;Ativo
+281;Fernanda Silva;M;1980-11-20;SP;São Paulo;2022-04-26;;Inativo
+282;Camila Souza;M;1960-06-18;RS;Porto Alegre;2022-04-13;;Ativo
+283;Camila Ribeiro;M;1985-10-08;MG;Contagem;2023-08-15;394.0;Ativo
+284;Pedro Rodrigues;M;1963-05-07;RJ;Niterói;2024-12-11;;Novo
+285;Maria Rocha;F;2004-06-10;RJ;Duque de Caxias;2024-11-21;;Ativo
+286;Maria Silva;F;1969-08-17;MG;Contagem;2022-07-19;;Novo
+287;Mariana Almeida;F;1972-01-15;RS;Caxias do Sul;2021-07-12;58.0;Ativo
+288;Bruno Oliveira;F;1983-01-30;BA;Salvador;2020-01-29;;Ativo
+289;Aline Ferreira;M;1975-09-29;RS;Caxias do Sul;2024-08-20;;Ativo
+290;Bruno Souza;F;1968-07-22;RJ;Rio de Janeiro;2022-09-04;;Ativo
+291;Fernanda Silva;F;1994-05-30;RJ;Niterói;2024-03-23;;Novo
+292;Bruno Lima;M;1983-06-19;BA;Feira de Santana;2023-11-19;;Novo
+293;Ana Ribeiro;F;1974-04-30;PR;Maringá;2022-10-26;;Inativo
+294;Aline Martins;M;1986-06-20;MG;Uberlândia;2021-03-28;;Ativo
+295;Carlos Ribeiro;M;2000-10-25;BA;Feira de Santana;2022-05-01;;Novo
+296;Camila Barbosa;M;1982-03-14;BA;Salvador;2022-12-12;;Ativo
+297;Carla Souza;M;1965-07-16;RS;Porto Alegre;2023-03-18;;Ativo
+298;Juliana Gomes;F;1970-06-05;BA;Salvador;2024-01-08;;Ativo
+299;Pedro Araújo;F;1964-12-28;PR;Curitiba;2022-11-17;;Ativo
+300;Felipe Silva;F;1987-08-25;BA;Salvador;2022-03-21;;Novo
+301;João Martins;M;1966-07-21;SP;Santo André;2021-12-06;;Novo
+302;Mariana Silva;M;2002-05-08;SP;Campinas;2022-04-17;70.0;Ativo
+303;Patrícia Gomes;F;2000-03-28;PR;Londrina;2020-06-13;;Ativo
+304;Mariana Oliveira;F;1970-08-23;RJ;Duque de Caxias;2022-03-15;;Ativo
+305;Fernanda Rocha;M;1962-01-14;MG;Contagem;2023-10-11;;Ativo
+306;Patrícia Almeida;F;1980-08-08;RJ;Niterói;2021-12-09;97.0;Inativo
+307;Ana Silva;F;1961-05-27;RJ;Rio de Janeiro;2020-05-17;18.0;Ativo
+308;Rodrigo Ferreira;M;1981-12-15;BA;Salvador;2022-04-03;;Ativo
+309;Mariana Pereira;M;1972-07-27;RS;Caxias do Sul;2021-04-24;;Ativo
+310;Felipe Gomes;F;1981-04-02;MG;Belo Horizonte;2023-09-14;;Ativo
+311;Patrícia Lima;F;1965-06-20;RS;Porto Alegre;2023-07-06;;Ativo
+312;Mariana Ribeiro;M;1990-11-24;BA;Feira de Santana;2024-05-28;;Novo
+313;Patrícia Costa;M;1986-11-26;PR;Curitiba;2024-03-25;;Novo
+314;Fernanda Rocha;M;1986-12-24;BA;Salvador;2024-07-08;;Inativo
+315;Maria Almeida;F;1997-05-14;RS;Porto Alegre;2022-03-06;;Inativo
+316;Paulo Gomes;M;2000-05-08;MG;Belo Horizonte;2023-01-01;;Ativo
+317;Paulo Silva;F;1993-11-02;BA;Salvador;2024-11-24;412.0;Ativo
+318;Felipe Martins;M;2003-01-03;RJ;Niterói;2021-09-12;;Novo
+319;João Pereira;M;1970-07-11;BA;Feira de Santana;2021-05-11;;Novo
+320;Paulo Costa;M;1988-11-07;MG;Contagem;2022-08-12;;Ativo
+321;Carla Lima;F;1992-04-06;RS;Caxias do Sul;2022-08-12;370.0;Ativo
+322;Camila Barbosa;F;1978-03-23;MG;Contagem;2022-04-27;443.0;Ativo
+323;Fernanda Martins;M;1961-06-15;MG;Uberlândia;2023-04-11;;Ativo
+324;Patrícia Lima;M;1977-08-07;MG;Belo Horizonte;2022-02-16;;Ativo
+325;Fernanda Ribeiro;F;1983-02-01;PR;Maringá;2023-08-07;;Inativo
+326;Rodrigo Oliveira;F;1975-03-09;RJ;Duque de Caxias;2023-01-24;;Ativo
+327;Mariana Rodrigues;M;1963-01-13;SP;São Paulo;2024-04-14;71.0;Ativo
+328;Fernanda Souza;M;1960-10-26;RJ;Duque de Caxias;2022-07-22;;Ativo
+329;Letícia Rodrigues;F;2003-10-08;SP;São Paulo;2022-12-25;;Ativo
+330;João Silva;F;1985-09-20;SP;Osasco;2024-07-23;;Ativo
+331;Patrícia Barbosa;M;1969-08-07;SP;Osasco;2020-10-31;;Ativo
+332;Letícia Almeida;F;1991-10-19;MG;Contagem;2020-06-10;;Ativo
+333;Rafael Ribeiro;M;1980-04-05;MG;Uberlândia;2024-08-22;;Novo
+334;Maria Souza;F;1994-01-09;PR;Maringá;2022-09-01;5.0;Novo
+335;Juliana Souza;F;1998-12-05;BA;Feira de Santana;2023-03-04;;Novo
+336;Ana Araújo;M;1980-08-11;RJ;Duque de Caxias;2024-12-22;;Novo
+337;Lucas Silva;M;1985-02-25;RS;Porto Alegre;2021-01-02;;Inativo
+338;Bruno Silva;M;1972-12-07;BA;Feira de Santana;2020-06-06;;Ativo
+339;Felipe Pereira;F;1989-10-05;PR;Maringá;2020-10-13;;Ativo
+340;Pedro Almeida;F;1964-10-25;SP;Santo André;2021-04-20;;Novo
+341;Bruno Ferreira;F;1989-04-12;SP;Campinas;2024-05-23;;Ativo
+342;Camila Pereira;F;1993-09-05;PR;Curitiba;2023-10-24;;Ativo
+343;Rafael Souza;F;1982-02-09;BA;Salvador;2020-06-17;;Novo
+344;Rafael Martins;M;1994-12-15;MG;Contagem;2020-08-06;483.0;Ativo
+345;Aline Ribeiro;F;1984-03-14;SP;Guarulhos;2020-06-27;230.0;Ativo
+346;Mariana Almeida;F;1969-04-07;SP;São Paulo;2021-12-25;;Ativo
+347;Letícia Ferreira;F;1994-07-24;SP;Campinas;2022-04-27;;Ativo
+348;Pedro Martins;M;1975-03-19;BA;Feira de Santana;2020-12-13;155.0;Novo
+349;Lucas Ribeiro;M;1965-09-04;RJ;Niterói;2021-07-19;;Ativo
+350;Camila Barbosa;M;1992-05-25;MG;Belo Horizonte;2024-01-16;;Ativo
+351;Letícia Ferreira;M;2001-01-28;SP;Guarulhos;2021-09-15;203.0;Ativo
+352;Bruno Rocha;F;1989-07-25;PR;Londrina;2022-05-31;;Inativo
+353;Letícia Oliveira;F;1988-10-07;RS;Porto Alegre;2022-09-08;;Ativo
+354;Rafael Gomes;F;2004-01-19;RS;Porto Alegre;2021-10-29;;Novo
+355;Rafael Gomes;M;1977-12-04;RS;Porto Alegre;2023-10-28;;Novo
+356;João Martins;F;1978-10-22;PR;Londrina;2024-08-29;;Ativo
+357;Patrícia Rodrigues;F;1972-06-26;BA;Feira de Santana;2021-05-10;;Novo
+358;Carlos Martins;F;1993-10-27;SP;Santo André;2023-05-09;;Ativo
+359;Rafael Almeida;F;1963-04-19;MG;Uberlândia;2024-07-21;;Inativo
+360;Pedro Souza;M;1991-11-06;RJ;Duque de Caxias;2023-06-08;331.0;Ativo
+361;Rafael Barbosa;F;1998-08-14;SP;São Paulo;2020-07-20;;Ativo
+362;Gabriel Martins;M;1999-12-29;MG;Contagem;2022-08-06;;Ativo
+363;Felipe Martins;M;1990-12-12;SP;Santo André;2020-08-02;;Ativo
+364;Pedro Souza;M;1991-04-02;MG;Contagem;2022-07-21;;Ativo
+365;Gabriel Ribeiro;F;2002-09-19;SP;Santo André;2024-01-18;;Inativo
+366;Bruno Souza;F;1964-01-04;BA;Salvador;2020-02-16;;Ativo
+367;Ana Rodrigues;M;1981-11-18;RS;Porto Alegre;2023-02-04;287.0;Inativo
+368;Patrícia Ribeiro;M;1996-05-03;BA;Salvador;2021-01-16;;Inativo
+369;Patrícia Costa;M;1977-09-13;PR;Maringá;2022-05-29;;Novo
+370;Paulo Pereira;F;1965-08-12;RS;Porto Alegre;2024-06-25;;Novo
+371;Juliana Gomes;F;1977-09-05;PR;Curitiba;2021-06-21;;Novo
+372;Camila Almeida;F;1994-11-12;RS;Caxias do Sul;2023-04-17;181.0;Novo
+373;Rodrigo Ferreira;M;1986-09-07;RS;Porto Alegre;2023-10-08;61.0;Novo
+374;Fernanda Lima;M;1976-06-03;MG;Uberlândia;2020-10-16;;Ativo
+375;Patrícia Ferreira;M;1994-06-04;PR;Curitiba;2022-09-23;;Novo
+376;Juliana Almeida;M;2003-12-05;MG;Belo Horizonte;2021-01-18;;Ativo
+377;Rodrigo Ferreira;M;1992-03-17;SP;Santo André;2020-10-06;197.0;Inativo
+378;Mariana Almeida;F;1996-09-14;BA;Feira de Santana;2022-05-01;;Novo
+379;Rodrigo Ribeiro;M;1967-06-01;RS;Porto Alegre;2024-06-17;;Inativo
+380;Aline Silva;F;1980-03-03;RS;Caxias do Sul;2020-12-10;;Ativo
+381;Felipe Martins;F;2005-10-29;SP;Osasco;2020-08-21;;Novo
+382;Mariana Rocha;F;1963-09-25;BA;Feira de Santana;2023-01-23;;Ativo
+383;Patrícia Souza;M;1986-09-16;SP;Santo André;2021-06-22;;Ativo
+384;Pedro Ribeiro;M;1981-04-04;RJ;Duque de Caxias;2023-04-19;;Inativo
+385;Letícia Rodrigues;F;1974-11-21;RS;Porto Alegre;2024-05-26;;Ativo
+386;Paulo Barbosa;M;1991-06-22;RS;Caxias do Sul;2023-05-07;;Inativo
+387;Bruno Martins;F;1985-12-15;RS;Caxias do Sul;2024-10-23;;Ativo
+388;Ana Oliveira;F;1965-04-26;MG;Uberlândia;2020-09-16;;Novo
+389;Carlos Pereira;M;1988-11-23;RJ;Duque de Caxias;2022-03-15;;Ativo
+390;Felipe Rodrigues;F;1997-02-28;PR;Londrina;2020-06-03;;Inativo
+391;Pedro Costa;F;1993-02-09;PR;Londrina;2021-11-01;;Inativo
+392;Pedro Martins;F;1992-02-20;SP;Osasco;2022-03-25;;Ativo
+393;Patrícia Rocha;M;2004-05-19;MG;Contagem;2024-08-23;;Ativo
+394;Mariana Ferreira;M;2003-07-17;MG;Uberlândia;2024-04-10;51.0;Ativo
+395;Rodrigo Silva;M;1974-03-04;PR;Londrina;2020-01-02;;Ativo
+396;Patrícia Pereira;M;1987-01-30;RJ;Niterói;2020-07-10;;Inativo
+397;Lucas Souza;F;1974-11-06;SP;Santo André;2023-07-05;;Inativo
+398;Fernanda Costa;M;1968-07-15;SP;Guarulhos;2022-09-03;304.0;Ativo
+399;Fernanda Almeida;F;1960-10-31;SP;Campinas;2024-07-31;441.0;Ativo
+400;Patrícia Martins;M;2002-11-09;SP;Guarulhos;2022-02-23;413.0;Ativo
+401;Ana Souza;F;1992-12-22;MG;Belo Horizonte;2022-02-22;;Novo
+402;Carlos Rodrigues;M;1966-02-19;RS;Porto Alegre;2023-06-03;;Inativo
+403;Rodrigo Gomes;M;1973-07-31;PR;Maringá;2023-11-07;;Ativo
+404;Paulo Souza;M;1972-07-23;SP;Osasco;2024-02-04;;Inativo
+405;Patrícia Gomes;M;1982-03-25;MG;Uberlândia;2020-06-21;;Ativo
+406;Letícia Ferreira;F;1962-05-28;BA;Feira de Santana;2021-02-24;;Inativo
+407;Gabriel Pereira;F;1986-07-07;BA;Salvador;2024-05-24;;Ativo
+408;Fernanda Ribeiro;F;1970-02-11;RJ;Niterói;2023-07-30;;Novo
+409;Gabriel Araújo;M;1992-05-24;MG;Belo Horizonte;2022-03-03;;Inativo
+410;Felipe Costa;F;1975-07-02;PR;Curitiba;2020-02-04;;Novo
+411;João Lima;M;1963-07-29;SP;Santo André;2022-11-03;;Ativo
+412;Gabriel Barbosa;F;1997-12-31;BA;Feira de Santana;2020-06-17;;Inativo
+413;Mariana Ferreira;M;1984-11-22;SP;Campinas;2020-06-10;;Inativo
+414;Paulo Barbosa;M;1989-04-24;PR;Maringá;2023-07-23;;Ativo
+415;Pedro Lima;F;1981-05-29;SP;Guarulhos;2020-06-25;;Ativo
+416;Ana Ribeiro;M;1987-09-30;BA;Salvador;2020-09-01;71.0;Ativo
+417;João Oliveira;F;1991-02-07;RS;Caxias do Sul;2020-12-07;;Ativo
+418;Lucas Martins;M;1962-08-19;MG;Contagem;2021-07-11;;Ativo
+419;Lucas Martins;M;2004-07-05;PR;Maringá;2022-01-07;440.0;Ativo
+420;Felipe Oliveira;F;1974-02-10;MG;Belo Horizonte;2023-03-21;;Ativo
+421;Ana Pereira;M;1963-12-14;SP;Guarulhos;2020-04-04;;Ativo
+422;Rafael Araújo;M;1976-01-21;SP;Osasco;2024-07-02;;Ativo
+423;Patrícia Pereira;F;1982-04-10;PR;Maringá;2021-10-17;;Novo
+424;Pedro Ferreira;F;1970-09-17;RS;Porto Alegre;2021-01-02;;Ativo
+425;Gabriel Silva;F;1966-03-08;PR;Londrina;2024-05-03;;Novo
+426;Bruno Souza;F;1960-09-18;MG;Belo Horizonte;2021-08-20;;Ativo
+427;Aline Martins;M;2001-08-14;MG;Uberlândia;2022-10-07;;Ativo
+428;Paulo Martins;M;1973-07-04;SP;Santo André;2020-02-18;;Inativo
+429;Carla Rodrigues;M;1990-01-20;SP;Santo André;2024-10-04;;Ativo
+430;Aline Souza;M;1981-05-14;PR;Londrina;2020-05-02;;Novo
+431;Carlos Martins;F;1968-05-06;SP;Guarulhos;2024-09-27;;Novo
+432;Carla Ribeiro;M;1968-07-28;RS;Porto Alegre;2023-07-29;;Ativo
+433;Pedro Ferreira;M;1999-01-09;BA;Salvador;2021-04-29;;Ativo
+434;Bruno Araújo;F;1989-04-08;MG;Contagem;2021-07-10;;Novo
+435;Paulo Oliveira;M;1973-12-10;SP;Guarulhos;2022-07-09;;Novo
+436;Patrícia Souza;F;1978-08-17;PR;Londrina;2022-08-06;;Ativo
+437;Ana Souza;M;1987-04-17;BA;Salvador;2021-03-16;;Novo
+438;Bruno Oliveira;M;1982-04-08;MG;Contagem;2022-11-17;154.0;Inativo
+439;Lucas Rocha;M;1962-10-15;PR;Londrina;2023-02-12;;Ativo
+440;Fernanda Souza;F;1969-02-21;RJ;Rio de Janeiro;2020-01-25;400.0;Novo
+441;Fernanda Oliveira;M;1995-12-09;MG;Uberlândia;2023-07-14;;Novo
+442;Pedro Ferreira;F;1966-09-23;SP;São Paulo;2021-02-08;;Inativo
+443;Rodrigo Barbosa;M;1968-04-01;MG;Belo Horizonte;2020-03-28;;Ativo
+444;Maria Oliveira;F;1995-06-09;PR;Curitiba;2022-02-22;;Ativo
+445;Juliana Gomes;M;1976-10-15;MG;Contagem;2022-07-02;;Inativo
+446;Maria Ferreira;M;1986-06-23;PR;Londrina;2024-12-12;;Inativo
+447;Maria Souza;F;1994-05-12;RJ;Niterói;2021-02-12;;Inativo
+448;Gabriel Pereira;M;1994-04-25;BA;Feira de Santana;2022-09-09;;Ativo
+449;Camila Gomes;F;1994-11-04;MG;Belo Horizonte;2020-02-23;;Ativo
+450;Fernanda Silva;F;1965-04-03;PR;Maringá;2022-01-02;;Novo
+451;Fernanda Oliveira;M;1982-03-27;BA;Salvador;2021-06-29;;Ativo
+452;Maria Barbosa;M;1994-11-05;MG;Belo Horizonte;2020-12-26;;Ativo
+453;Bruno Barbosa;F;1962-07-13;BA;Feira de Santana;2023-03-08;;Ativo
+454;Felipe Pereira;F;1987-09-23;RJ;Niterói;2020-03-18;120.0;Inativo
+455;Letícia Pereira;M;2002-11-18;SP;Campinas;2023-06-11;;Novo
+456;Carlos Gomes;M;1989-01-11;SP;São Paulo;2020-10-29;;Ativo
+457;Carlos Barbosa;M;1992-09-25;SP;Campinas;2023-12-13;;Novo
+458;Rafael Ferreira;M;1990-03-12;MG;Contagem;2020-10-06;;Ativo
+459;Patrícia Barbosa;F;1988-06-18;RJ;Duque de Caxias;2023-02-24;;Novo
+460;Letícia Barbosa;F;1980-01-11;BA;Salvador;2022-02-13;;Novo
+461;Aline Oliveira;M;1960-02-28;BA;Feira de Santana;2024-10-08;;Novo
+462;Felipe Silva;M;1988-07-19;RS;Porto Alegre;2023-08-02;;Ativo
+463;Camila Oliveira;F;1966-12-24;RJ;Niterói;2021-10-16;454.0;Ativo
+464;Pedro Rocha;F;2000-01-26;SP;Campinas;2021-03-05;;Ativo
+465;Pedro Gomes;F;1969-09-10;BA;Salvador;2020-04-08;;Inativo
+466;Patrícia Oliveira;F;2004-03-27;PR;Londrina;2023-01-23;;Ativo
+467;Camila Barbosa;M;1974-08-04;PR;Curitiba;2024-06-24;;Ativo
+468;Aline Silva;F;1983-06-05;SP;São Paulo;2021-12-01;193.0;Inativo
+469;Juliana Martins;M;1968-05-08;MG;Uberlândia;2023-06-10;;Ativo
+470;João Costa;M;1998-12-14;RJ;Rio de Janeiro;2020-07-26;;Inativo
+471;Paulo Costa;F;1985-04-03;MG;Belo Horizonte;2020-07-15;293.0;Novo
+472;Mariana Rocha;F;1973-10-11;SP;Campinas;2020-01-08;;Inativo
+473;Aline Rocha;F;1977-11-29;SP;São Paulo;2021-02-27;150.0;Novo
+474;Pedro Ribeiro;M;1987-08-31;PR;Londrina;2022-09-28;;Inativo
+475;Lucas Souza;F;1976-08-02;MG;Contagem;2022-01-26;23.0;Ativo
+476;Lucas Ribeiro;F;1983-08-19;RJ;Niterói;2023-03-01;386.0;Inativo
+477;Ana Souza;F;1997-02-20;RS;Porto Alegre;2023-02-07;199.0;Novo
+478;Gabriel Costa;F;1981-02-20;PR;Londrina;2020-06-10;;Ativo
+479;Maria Almeida;M;1970-10-16;PR;Curitiba;2020-12-08;;Inativo
+480;Paulo Oliveira;M;1997-12-25;SP;Santo André;2021-02-17;;Ativo
+481;Carlos Rocha;F;1988-09-07;BA;Salvador;2020-06-27;;Ativo
+482;Rafael Almeida;F;1984-10-11;RS;Caxias do Sul;2024-11-23;359.0;Ativo
+483;Letícia Ferreira;F;1970-02-04;PR;Curitiba;2020-10-30;;Ativo
+484;Felipe Barbosa;M;1969-06-23;RS;Porto Alegre;2024-05-28;;Ativo
+485;Mariana Araújo;F;1996-11-11;MG;Contagem;2023-09-03;;Ativo
+486;Letícia Ribeiro;M;1975-06-13;MG;Contagem;2020-10-21;;Inativo
+487;Rafael Silva;F;1989-09-27;BA;Salvador;2020-04-10;;Novo
+488;Lucas Araújo;F;1961-10-24;MG;Contagem;2021-09-28;;Ativo
+489;Camila Rocha;M;1980-06-13;RJ;Niterói;2024-03-03;;Inativo
+490;Bruno Lima;F;1968-01-04;RJ;Niterói;2021-03-08;;Inativo
+491;Patrícia Martins;F;1993-07-18;SP;Osasco;2024-06-08;160.0;Ativo
+492;Gabriel Costa;M;1962-08-06;RJ;Rio de Janeiro;2024-11-27;;Ativo
+493;Maria Pereira;M;2000-12-12;SP;Campinas;2023-12-14;189.0;Ativo
+494;Rodrigo Almeida;F;1971-02-11;BA;Salvador;2021-05-10;;Novo
+495;Letícia Ribeiro;M;2002-07-30;RS;Caxias do Sul;2021-12-06;458.0;Ativo
+496;Lucas Martins;M;1985-07-29;SP;Santo André;2020-04-11;293.0;Ativo
+497;Paulo Rocha;M;1980-03-12;BA;Salvador;2021-07-05;;Ativo
+498;Gabriel Silva;M;2002-07-14;RJ;Duque de Caxias;2020-12-20;;Novo
+499;João Pereira;F;1987-05-28;BA;Feira de Santana;2022-05-17;;Inativo
+500;Carla Ribeiro;F;1979-07-30;PR;Londrina;2023-10-18;;Inativo
