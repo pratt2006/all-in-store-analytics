@@ -1,1 +1,42 @@
+# 📁 SQL — All In Store Analytics
+
+Este diretório contém *todos os scripts SQL* utilizados na construção, modelagem e população do banco de dados *AllInStore*, base principal para análises em SQL, Power BI e Python.
+
+A estrutura segue um fluxo profissional de criação, carga de dados e validação das tabelas e relacionamentos.
+
+---
+
+## 📌 Objetivo da pasta
+
+- Criar o banco de dados AllInStore  
+- Criar todas as tabelas necessárias  
+- Definir chaves primárias e estrangeiras  
+- Popular o banco com dados fictícios realistas  
+- Fornecer uma base completa para análises  
+
+---
+
+# 📂 Estrutura dos Scripts
+
+| Arquivo | Função |
+|--------|--------|
+| *create-database.sql* | Cria o banco de dados AllInStore |
+| *create-tables.sql* | Cria todas as tabelas do projeto |
+| *primary-keys.sql* | Adiciona todas as chaves primárias |
+| *foreign-keys.sql* | Cria todos os relacionamentos (FKs) |
+| *import-data.sql* | Importa dados de CSV (opcional) |
+| *populate-data.sql* | Popula as tabelas com dados fictícios *sem CSV* |
+| *kpi-queries.sql* (opcional) | Consultas analíticas e KPIs |
+
+---
+
+# 🚀 *Ordem oficial de execução*
+
+Siga exatamente essa ordem:
+
+1. Criar a tabela
+2. Criar chaaves primárias
+3. Criar as chaves estrangeiras
+4. Popular as tabelas para as próximas etapas.
+
 
